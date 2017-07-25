@@ -1,0 +1,22 @@
+{
+  "name": "semaphore-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyespaolo/semaphore-connect.git"
+  },
+  "author": "Paolo Brainard M. Reyes <xreyes.paolox@gmail.com> (http://360logix.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyespaolo/semaphore-connect/issues"
+  },
+  "homepage": "https://github.com/reyespaolo/semaphore-connect#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
